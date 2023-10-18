@@ -26,6 +26,7 @@ Following are the steps we will take :
 - In the home section we create a stateful widget and call api from randomuser.me
 - we will call the user's first name, email and photo
 - You can see the coding example in the home.dart file in the lib folder
+- Run the project by pressing the round button at the bottom right of the screen
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
